@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{A9C6A3E7-F7E6-C880-8FFA-B82E571A36B9}|">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="47b4c415-76d7-4599-90db-8923efd5e866" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ScriptZombi/ZombiBehaviour.cs">
+    <Files>
+      <File FileName="Assets/ScriptZombi/ZombiBehaviour.cs" Line="5" Column="1" />
+      <File FileName="Assets/ScriptZombi/NavigationAi.cs" Line="23" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Zombie" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True" />
+              <Node name="ScriptZombi" expanded="True">
+                <Node name="ZombiBehaviour.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
